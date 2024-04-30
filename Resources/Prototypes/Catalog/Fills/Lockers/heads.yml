@@ -124,7 +124,7 @@
     contents:
       - id: Eftpos # backmen
         amount: 5 # backmen
-      - id: ClothingUniformJumpsuitHoPCool
+      - id: ClothingUniformJumpsuitHoPCool # Backmen
         prob: 0.90 # backmen lol
       - id: ClothingNeckCloakHop
       - id: ClothingHeadHatHopcap

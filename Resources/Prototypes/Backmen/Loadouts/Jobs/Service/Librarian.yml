@@ -1,0 +1,8 @@
+- type: loadout
+  id: LibrarianCool
+  equipment: CoolJumpsuit
+
+- type: startingGear
+  id: LibrarianCool
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitlibrariancool
