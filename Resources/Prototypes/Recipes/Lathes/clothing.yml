@@ -91,6 +91,22 @@
     Durathread: 100
 
 - type: latheRecipe
+  id: ClothingUniformJumpsuitIAAwhite
+  result: ClothingUniformJumpsuitIAAwhite
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
+  id: ClothingUniformJumpskirtIAAwhite
+  result: ClothingUniformJumpskirtIAAwhite
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
   id: ClothingUniformJumpsuitCentcomFormal
   result: ClothingUniformJumpsuitCentcomFormal
   completetime: 4
@@ -225,8 +241,22 @@
     Cloth: 300
 
 - type: latheRecipe
+  id: ClothingUniformJumpsuitDetectivecool
+  result: ClothingUniformJumpsuitDetectivecool
+  completetime: 4
+  materials:
+    Cloth: 300
+
+- type: latheRecipe
   id: ClothingUniformJumpskirtDetective
   result: ClothingUniformJumpskirtDetective
+  completetime: 4
+  materials:
+    Cloth: 300
+
+- type: latheRecipe
+  id: ClothingUniformJumpskirtDetectivecool
+  result: ClothingUniformJumpskirtDetectivecool
   completetime: 4
   materials:
     Cloth: 300
@@ -270,6 +300,14 @@
 - type: latheRecipe
   id: ClothingUniformJumpskirtHoP
   result: ClothingUniformJumpskirtHoP
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
+  id: ClothingUniformJumpsuitHoPCool
+  result: ClothingUniformJumpsuitHoPCool
   completetime: 4
   materials:
     Cloth: 300
@@ -400,6 +438,13 @@
 - type: latheRecipe
   id: ClothingUniformJumpskirtColorLightBrown #Librarian
   result: ClothingUniformJumpskirtColorLightBrown
+  completetime: 4
+  materials:
+    Cloth: 300
+
+- type: latheRecipe
+  id: ClothingUniformJumpsuitlibrariancool
+  result: ClothingUniformJumpsuitlibrariancool
   completetime: 4
   materials:
     Cloth: 300

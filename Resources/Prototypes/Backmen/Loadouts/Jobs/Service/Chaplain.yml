@@ -1,0 +1,37 @@
+# Head
+- type: loadout
+  id: ChaplainHeadWhite
+  equipment: ChaplainHeadWhite
+
+- type: startingGear
+  id: ChaplainHeadWhite
+  equipment:
+    head: ClothingHeadHatChaplainWhite
+
+# Outer
+- type: loadout
+  id: ChaplainCultLeader
+  equipment: ChaplainCultLeader
+
+- type: startingGear
+  id: ChaplainCultLeader
+  equipment:
+    outerClothing: ClothingCultLeaderCoat
+# Neck
+- type: loadout
+  id: ChaplainCloakWhite
+  equipment: ChaplainCloakWhite
+
+- type: startingGear
+  id: ChaplainCloakWhite
+  equipment:
+    neck: ClothingNeckCloakChaplainWhite
+
+- type: loadout
+  id: ChaplainCloakBlack
+  equipment: ChaplainCloakBlack
+
+- type: startingGear
+  id: ChaplainCloakBlack
+  equipment:
+    neck: ClothingNeckCloakChaplainBlack

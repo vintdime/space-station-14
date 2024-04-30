@@ -249,6 +249,7 @@
   - ChaplainPlagueHat
   - ChaplainWitchHat
   - ChaplainWitchHatAlt
+  - ChaplainHeadWhite # Backmen
 
 - type: loadoutGroup
   id: ChaplainMask
@@ -283,6 +284,7 @@
   - ChaplainNunRobe
   - ChaplainBlackHoodie
   - ChaplainHoodie
+  - ChaplainCultLeader # Backmen
 
 - type: loadoutGroup
   id: ChaplainNeck
@@ -290,6 +292,8 @@
   minLimit: 0
   loadouts:
   - ChaplainNeck
+  - ChaplainCloakWhite # Backmen
+  - ChaplainCloakBlack # Backmen
 
 - type: loadoutGroup
   id: JanitorHead
@@ -947,6 +951,8 @@
   - DetectiveJumpskirt
   - NoirJumpsuit
   - NoirJumpskirt
+  - CoolJumpsuit # Backmen
+  - CoolJumpskirt # Backmen
 
 - type: loadoutGroup
   id: DetectiveBackpack

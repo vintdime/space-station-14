@@ -525,3 +525,58 @@
     sprite: Backmen/Clothing/Uniforms/jumpsuit/alxlaiho.rsi
   - type: Clothing
     sprite: Backmen/Clothing/Uniforms/jumpsuit/alxlaiho.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitDetectivecool
+  name: Серый комбинезон детектива
+  description: Пахнет нуаром
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jumpsuitdetectivecool.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jumpsuitdetectivecool.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitIAAwhite
+  name: Белый комбинезон АВД
+  description: Яркий белый костюм, который носят юристы и выпендрежники.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/iaawhite.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/iaawhite.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitlibrariancool
+  name: Жилетка библиотекаря
+  description: А у него и правда есть деловая хватка. Сначала продал мне рыбу и чипсы, а потом и все книги
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/librarian.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/librarian.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitHoPCool
+  name: Официальная форма Главы Персонала
+  description: Вы заслужили эту форму!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/HoPCool.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/HopCool.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitJensen
+  name: Прикид Дженсена
+  description: А ты стилёвый!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jens.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jens.rsi

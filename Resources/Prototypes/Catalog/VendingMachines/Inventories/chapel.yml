@@ -5,11 +5,16 @@
     ClothingUniformJumpskirtChaplain: 2
     ClothingUniformJumpsuitMonasticRobeDark: 1
     ClothingUniformJumpsuitMonasticRobeLight: 1
+    ClothingCultLeaderCoat: 1 # Backmen
+    ClothingCultFollowerCoat: 3 # Backmen
     ClothingNeckStoleChaplain: 1
     ClothingOuterHoodieChaplain: 1
     ClothingOuterHoodieBlack: 1
+    ClothingNeckCloakChaplainBlack: 1 # Backmen
+    ClothingNeckCloakChaplainWhite: 1 # Backmen
     ClothingHeadHatHoodNunHood: 1
     ClothingOuterNunRobe: 1
+    ClothingHeadHatChaplainWhite: 1 # backmen
     ClothingHeadHatFez: 1
     ClothingHeadHatPlaguedoctor: 1
     ClothingHeadHatWitch: 1

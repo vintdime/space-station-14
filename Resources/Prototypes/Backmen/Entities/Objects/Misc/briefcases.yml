@@ -1,0 +1,10 @@
+- type: entity
+  parent: BriefcaseBase
+  id: BriefcaseBlack
+  name: Чёрный брифкейс
+  components:
+  - type: Sprite
+    sprite: Backmen/Objects/Storage/Briefcases/briefcase_black.rsi
+    state: icon
+  - type: Item
+    sprite: Backmen/Objects/Storage/Briefcases/briefcase_black.rsi

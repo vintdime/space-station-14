@@ -168,3 +168,17 @@
     tags:
     - ClothMade
     - HamsterWearable
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatChaplainWhite
+  name: головной убор священника
+  description: Для самых праведных!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Head/Hats/chaplainhat.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Head/Hats/chaplainhat.rsi
+  - type: Tag
+    tags:
+    - ClothMade

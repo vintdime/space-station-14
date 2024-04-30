@@ -103,3 +103,29 @@
         Heat: 0.9
   - type: ExplosionResistance
     damageCoefficient: 0.80
+
+- type: entity
+  parent: ClothingOuterBaseLarge
+  id: ClothingOuterArmorKillaVest
+  name: "6Б13М Песочный"
+  description: "Модифицированный броник. Для крутых пацанов"
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/OuterClothing/Armor/killaset.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/OuterClothing/Armor/killaset.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.6
+        Slash: 0.6
+        Piercing: 0.5
+        Heat: 0.65
+        Caustic: 0.9
+        Stun: 0.5
+  - type: ClothingSpeedModifier
+    walkModifier: 0.85
+    sprintModifier: 0.85
+  - type: HeldSpeedModifier
+  - type: ExplosionResistance
+    damageCoefficient: 0.65

@@ -30,3 +30,25 @@
     sprite: Backmen/Clothing/Uniforms/Jumpskirt/space_club.rsi
   - type: Clothing
     sprite: Backmen/Clothing/Uniforms/Jumpskirt/space_club.rsi 
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtDetectivecool
+  name: Серая юбка детектива
+  description: Пахнет нуаром
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpskirt/jumpskirtdetectivecool.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpskirt/jumpskirtdetectivecool.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtIAAwhite
+  name: Белая юбка АВД
+  description: Яркий белый костюм, который носят юристы и выпендрежники.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Uniforms/Jumpskirt/iaawhite.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Uniforms/Jumpskirt/iaawhite.rsi

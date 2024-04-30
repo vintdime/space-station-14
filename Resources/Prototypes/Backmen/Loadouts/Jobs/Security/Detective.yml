@@ -1,0 +1,17 @@
+- type: loadout
+  id: CoolJumpsuit
+  equipment: CoolJumpsuit
+
+- type: startingGear
+  id: CoolJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitDetectivecool
+
+- type: loadout
+  id: CoolJumpskirt
+  equipment: CoolJumpskirt
+
+- type: startingGear
+  id: CoolJumpskirt
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtDetectivecool

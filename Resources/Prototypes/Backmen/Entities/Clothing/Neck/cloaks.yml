@@ -97,3 +97,21 @@
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/TGMCcloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakChaplainWhite
+  name: Белый плащ священника
+  description: Воистину божественный плащ для лучшего священника!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Neck/Cloaks/chaplainwhite.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakChaplainBlack
+  name: Чёрный плащ священника
+  description: Плащ для ваших злостных амбиций!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Neck/Cloaks/chaplainblack.rsi

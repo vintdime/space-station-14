@@ -19,3 +19,25 @@
     sprite: Backmen/Clothing/OuterClothing/Coats/ssspcoatbelov.rsi
   - type: Clothing
     sprite: Backmen/Clothing/OuterClothing/Coats/ssspcoatbelov.rsi
+
+- type: entity
+  parent: ClothingOuterWinterCoat
+  id: ClothingCultLeaderCoat
+  name: Балахон лидера культа
+  description: Элегантное одеяние для лидера культа!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/OuterClothing/Coats/cultleader.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/OuterClothing/Coats/cultleader.rsi
+
+- type: entity
+  parent: ClothingOuterWinterCoat
+  id: ClothingCultFollowerCoat
+  name: Балахон последователя культа
+  description: Следуйте за своим пастырем!
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/OuterClothing/Coats/cultfollower.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/OuterClothing/Coats/cultfollower.rsi
