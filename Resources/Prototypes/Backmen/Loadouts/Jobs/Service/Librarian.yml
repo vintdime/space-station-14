@@ -1,6 +1,6 @@
 - type: loadout
   id: LibrarianCool
-  equipment: CoolJumpsuit
+  equipment: LibrarianCool
 
 - type: startingGear
   id: LibrarianCool
